@@ -8,6 +8,7 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
 }
+
 h1{
     margin-top: 50px auto 0 auto;
     margin-block-end: 0;
@@ -15,6 +16,7 @@ h1{
     font-size: 5.625rem;
     color: #66BFBF;
 }
+
 h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
@@ -23,30 +25,35 @@ h2{
     padding-bottom: 10px;
     
 }
+
 h3{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
+
 p{
     font-size: 1rem;
     font-family: 'Merriweather', serif;
     line-height: 2;
-} 
+}
+
 a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
-
 }
+
 a:hover{
     color: #eaf6f6;
 }
+
 .top-container{
     background-color: #e4f9f5;
     padding-top: 100px;
     position: relative;
 }
+
 .middle-container{
     margin: 100px 0 100px 0;
 }
@@ -55,15 +62,18 @@ a:hover{
     background-color: #66bfbf;
     padding: 50px 0 20px;
 }
+
 .intro{
     width: 30%;
     margin: auto;
 }
+
 #Topcloud{
     position: absolute;
     top: 40px;
     right: 300px;
 }
+
 #Bottomcloud{
     position: absolute;
     top: 370px;
@@ -73,35 +83,42 @@ a:hover{
     color: #eaf6f6;
     font-size: 0.75rem;
     padding: 20px 0;
-}  
+}
+
 hr{
     border: dotted #cccccc 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
 }
+
 .contect-message{
     width: 40%;
     margin: 40px auto 60px;
 }
+
 .pro{
     font-weight: normal;
 }
+
 .skill-row{
     width: 50%;
     margin: 100px auto;
     text-align: left;
 }
+
 .img1{
     width: 25%;
     float: left;
     margin-right: 30px;
 }
+
 .img2{
     width: 25%;
     float: right;
     margin-left: 30px;
 }
+
 .BUTTON_VVI {
     background: #11CDD4;
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
@@ -128,9 +145,9 @@ hr{
     display: inline-block;
     cursor: pointer;
     text-align: center;
- }
- 
- .BUTTON_VVI:hover {
+}
+
+.BUTTON_VVI:hover {
     border: solid #337FED 1px;
     background: #30ECBE;
     background-image: -webkit-linear-gradient(top, #30ECBE, #2BC4AD);
@@ -142,4 +159,4 @@ hr{
     -moz-border-radius: 8px;
     border-radius: 8px;
     text-decoration: none;
- }
+}
